@@ -8,7 +8,7 @@ https://arxiv.org/abs/2507.09460
   journal={ArXiv},
   year={2025},
   volume={abs/2507.09460},
-  url={https://api.semanticscholar.org/CorpusID:280215109}
+  url={https://arxiv.org/abs/2507.09460}
 }
 ```
 
