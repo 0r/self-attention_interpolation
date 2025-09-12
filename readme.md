@@ -1,4 +1,4 @@
-This is an example of the self-attention interpolation architecture used in the below citation:
+The demo notebook contains and example of the self-attention interpolation architecture used in the below citation:
 https://arxiv.org/abs/2507.09460
 
 ```
