@@ -1,9 +1,7 @@
 ![self-attention_interpolation_transformer.png](self-attention_interpolation_transformer.png)
 
+
 The [demo.ipynb](demo.ipynb) notebook contains an example of the self-attention interpolation architecture used in the below citation:
-
-https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1657749
-
 ```
 @ARTICLE{10.3389/fdgth.2025.1657749,
   AUTHOR={Marchal, Noah  and Janes, William E.  and Marushak, Sheila  and Popescu, Mihail  and Song, Xing },
@@ -17,3 +15,5 @@ https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.
 ```
 
 Marchal N, Janes WE, Marushak S, Popescu M and Song X (2025) Enhancing ALS progression tracking with semi-supervised ALSFRS-R scores estimated from ambient home health monitoring. Front. Digit. Health 7:1657749. doi: 10.3389/fdgth.2025.1657749
+
+https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1657749
