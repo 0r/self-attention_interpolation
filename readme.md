@@ -1,6 +1,6 @@
 ![self-attention_interpolation_transformer.png](self-attention_interpolation_transformer.png)
 
-The [demo.ipynb](demo.ipynb) notebook contains and example of the self-attention interpolation architecture used in the below citation:
+The [demo.ipynb](demo.ipynb) notebook contains an example of the self-attention interpolation architecture used in the below citation:
 
 https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1657749
 
