@@ -1,4 +1,4 @@
-![Self-Attention Interpolation Transformer Encoder](self-attention_interpolation_transformer.png)
+![Self-Attention Interpolation Transformer Encoder](self-attention_interpolation_transformer.pdf)
 
 The [demo.ipynb](demo.ipynb) notebook contains and example of the self-attention interpolation architecture used in the below citation:
 
